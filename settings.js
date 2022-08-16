@@ -61,12 +61,12 @@ global.socialm = "GitHub: Sumi Bot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94742427578']
-global.ownertag = '94742427578' //ur tag number
+global.owner = ['94767761567']
+global.ownertag = '94767761567' //ur tag number
 global.botname = 'Sumi Bot V4' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCyx6idB-uZRFO3OThT_PWzw' //script link
+global.botscript = 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sumi Bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
